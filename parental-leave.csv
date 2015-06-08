@@ -1,0 +1,43 @@
+Company,Parental Class,Percent Covered Base,Base in Weeks,Percent Covered Extra,Extra in Weeks
+Google,Maternity,100,22,0,0
+Google,Paternity,100,7,0,0
+Twitter,Maternity,100,20,0,0
+Twitter,Paternity,100,12,0,0
+Reddit ,Maternity,100,17,0,0
+Reddit ,Paternity,100,17,0,0
+Facebook,Maternity,100,16,0,0
+Facebook,Paternity,100,16,0,0
+Yahoo,Maternity,100,16,0,0
+Yahoo,Paternity,100,8,0,0
+Square,Maternity,100,16,0,0
+Square,Paternity,100,16,0,0
+Palantir,Maternity,100,16,0,0
+Palantir,Paternity,100,4,0,0
+Jawbone,Maternity,100,16,0,0
+Jawbone,Paternity,100,8,0,0
+Github,Maternity,100,16,0,0
+Github,Paternity,100,16,0,0
+Craigslist,Maternity,100,12,0,0
+Craigslist,Paternity,100,6,0,0
+Etsy,Maternity,100,12,0,0
+Etsy,Paternity,100,5,0,0
+Pinterest,Maternity,100,12,0,0
+Pinterest,Paternity,100,4,0,0
+One Kings Lane,Maternity,100,12,0,0
+One Kings Lane,Paternity,100,12,0,0
+Fog Creek,Maternity,75,12,0,0
+Fog Creek,Paternity,75,6,0,0
+LightSail Energy,Maternity,100,6,50,6
+LightSail Energy,Paternity,100,6,50,6
+Klout,Maternity,100,8,0,0
+Klout,Paternity,100,8,0,0
+Return Path,Maternity,100,12,0,0
+Return Path,Paternity,100,4,0,0
+Evernote,Maternity,100,2,0,0
+Evernote,Paternity,100,2,0,0
+SendGrid,Maternity,100,2,0,0
+SendGrid,Paternity,100,2,0,0
+Opera Software,Maternity,100,8,80,16
+Opera Software,Paternity,100,2,80,6
+Elance o-desk,Maternity,100,2,0,0
+Elance o-desk,Paternity,100,2,0,0
